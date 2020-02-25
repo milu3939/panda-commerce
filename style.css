@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 100px;
+}
+.car-bg{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 45px;
+}
+.price{
+    color: mediumvioletred;
+}
+.buy-button{
+    background-image: linear-gradient(to right,rgb(223, 28, 135), rgb(185, 19, 144));
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 5px 8px;
+    cursor: pointer;
+}
